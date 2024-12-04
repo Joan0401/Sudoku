@@ -1,10 +1,3 @@
-'''
-Proyecto 2 Taller de Programación
-Integrantes:
-Luis Felipe Benavides Solórzano
-Joan David Castrillo Solano
-Isaac Carballo Chacon
-'''
 # Librerías que se van a utilizar
 from FuncionesSudoku import * # Para crear el sudoku
 import tkinter as tk # Para crear la interfaz
